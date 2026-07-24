@@ -13,3 +13,9 @@ table_size = int(input("Enter hash table size: "))
 index = hash_function(key, table_size)
 
 print("Hash value (index):", index)
+
+
+# Output
+Enter a key: DeVyAnI
+Enter hash table size: 10
+Hash value (index): 4
