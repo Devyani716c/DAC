@@ -20,3 +20,16 @@ Enter a key: DeVyAnI
 Enter hash table size: 10
 Hash value (index): 4
 
+Write a Python program to create a Binary Tree using recursive insertion, where -1 represents a NULL node. Then perform and display the following tree traversals:
+
+Preorder Traversal
+Inorder Traversal
+Postorder Traversal
+
+Requirements:
+
+Define a Node class with data, left, and right.
+Implement a recursive insertNode() function to construct the binary tree.
+Use -1 as the sentinel value to indicate no child node.
+Implement separate functions for preorder(), inorder(), and postorder() traversals.
+Display the traversal outputs after constructing the tree
