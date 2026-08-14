@@ -34,3 +34,7 @@ if search(root, key):
     print("Key found")
 else:
     print("Key not found")
+
+
+# Output
+Key found
